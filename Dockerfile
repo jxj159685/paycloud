@@ -1,6 +1,6 @@
 FROM hub.c.163.com/library/java:8-alpine
 
-MAINTAINER XXX XXX@imooc.com
+MAINTAINER XXX XXX@jxj.com
 
 ADD server/target/*.jar app.jar
 
